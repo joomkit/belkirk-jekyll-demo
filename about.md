@@ -19,7 +19,7 @@ menu:
   navigation:
     identifier: _about
     weight: 1
-    parent: _posts
+    parent: _contact
   footer:
     identifier: _about
     weight: 3
