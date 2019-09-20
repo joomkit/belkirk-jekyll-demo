@@ -18,7 +18,8 @@ services:
 menu:
   footer:
     identifier: _about
-    weight: 3
+    weight: 1
+    parent: _posts
   navigation:
     identifier: _about
     weight: 2
